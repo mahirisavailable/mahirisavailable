@@ -43,7 +43,7 @@ Focus Areas: Data Structures, Algorithms, Web Development
 ## 📱 Connect With Me
 
 - **Email**: mahirisbusy69@gmail.com
-- **Instagram**: [@mahir__0_0](https://instagram.com/mahir__0_0)
+- **Instagram**: [@mahirisbusy](https://instagram.com/mahirisbusy)
 - **GitHub**: [@mahirisavailable](https://github.com/mahirisavailable)
 
 ---
