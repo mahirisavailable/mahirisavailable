@@ -47,12 +47,6 @@ Focus Areas: Data Structures, Algorithms, Web Development
 - **Instagram**: [@mahirisbusy](https://instagram.com/mahirisbusy)
 - **GitHub**: [@mahirisavailable](https://github.com/mahirisavailable)
 
----
-
-## 🎓 My Learning Philosophy
-
-> "Building projects to learn, learning through projects, solving problems to grow, and growing through competitive programming."
-
 Feel free to explore my repositories, check out my projects, and reach out if you'd like to collaborate or discuss anything related to **DSA, competitive programming, or web development**! 
 
 ---
