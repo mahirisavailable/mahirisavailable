@@ -32,6 +32,7 @@ An interactive competitive programming progress tracker. Monitor your progress a
 
 ```
 Languages: C | C++ | Python | JavaScript | HTML | CSS
+Libraries: RayLib
 Focus Areas: Data Structures, Algorithms, Web Development
 ```
 
