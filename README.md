@@ -19,7 +19,7 @@ An anime-based blog website with smart presentation and elegant visuals. Explore
 - **Link**: [https://mahirisavailable.github.io/AniBlog/](https://mahirisavailable.github.io/AniBlog/)
 
 ### 🔖 **Bookmark**
-A curated collection of tools and resources I actively use. A personal bookmark manager featuring learning resources, CP platforms, web dev tools, and entertainment.
+A curated collection of tools and resources I actively use. A personal bookmark manager featuring learning resources, CP platforms, WebDev tools, AI tools etc.
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Link**: [https://mahirisavailable.github.io/Bookmark/](https://mahirisavailable.github.io/Bookmark/)
 
