@@ -13,11 +13,12 @@ Recently I've been working on a mix of game projects in C and web projects hoste
 - 📚 **DSA Enthusiast** - Continuously learning and mastering data structures and algorithms
 - 🛠️ **Project Builder** - Creating web applications, small games, and tools to level up my skills
 
-## 🚀 Featured Projects (Top 3 recent / notable works)
+## 🚀 Featured Projects
 
 ### 🕹️ **PacMan**
 A C-based implementation of the classic Pac-Man game — my recent university project focusing on game logic, input handling, and simple AI for ghosts.
 - **Tech Stack**: C
+- **Libraries**: RayLib
 - **Repo**: https://github.com/mahirisavailable/PacMan
 
 ### 📝 **AniBlog**
@@ -28,7 +29,7 @@ An anime-themed blog website with clean presentation and elegant visuals. A stat
 
 ### 🔖 **Bookmark**
 A curated personal bookmark manager — a collection of tools and resources I use for learning, competitive programming, web development, and AI.
-- **Tech Stack**: HTML, CSS, JavaScript
+- **Tech Stack**: HTML, CSS
 - **Live**: https://mahirisavailable.github.io/Bookmark/
 - **Repo**: https://github.com/mahirisavailable/Bookmark
 
