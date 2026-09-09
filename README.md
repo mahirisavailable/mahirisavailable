@@ -4,8 +4,6 @@
 
 I'm a **Computer Science student** and a **passionate programmer** with a deep love for **problem-solving** and **competitive programming**. I enjoy building small tools and games to learn systems and algorithms, and I continuously focus on improving my skills in data structures, algorithms, and low-level programming.
 
-Recently I've been working on a mix of game projects in C and web projects hosted on GitHub Pages — check out the featured projects below.
-
 ## 💡 What I Do
 
 - 🏆 **Competitive Programmer** - Active on Codeforces, LeetCode, and other competitive programming platforms
@@ -40,7 +38,7 @@ A curated personal bookmark manager — a collection of tools and resources I us
 ```
 Languages: C | C++ | Python | JavaScript | HTML | CSS
 Libraries: RayLib
-Focus Areas: Data Structures, Algorithms, Web Development, Game Development (C)
+Focus Areas: Data Structures, Algorithms, Web Development, Game Development
 ```
 
 ## 📊 Competitive Programming Profiles
