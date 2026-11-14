@@ -17,6 +17,7 @@ I'm a **Computer Science student** and a **passionate programmer** with a deep l
 A C-based implementation of the classic Pac-Man game — my recent university project focusing on game logic, input handling, and simple AI for ghosts.
 - **Tech Stack**: C
 - **Libraries**: RayLib
+- **Download**: https://mahirisbusy.itch.io/pacman-remix
 - **Repo**: https://github.com/mahirisavailable/PacMan
 
 ### 📝 **AniBlog**
